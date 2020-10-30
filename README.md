@@ -1,6 +1,6 @@
 # ActiveRecord Validations Lab
 
-# Basic Validations
+## Basic Validations
 
 Add validations to these models such that...
 
@@ -15,7 +15,7 @@ Add validations to these models such that...
    lesson. You'll need to refer to the [Rails guide][ar_validations] to look
    up how to use it.
 
-# Custom Validations
+## Custom Validations
 
 Finally, add a custom validator to `Post` that ensures the title is
 sufficiently clickbait-y. If the title does not contain "Won't Believe",
